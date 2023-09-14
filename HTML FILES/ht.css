@@ -1,0 +1,26 @@
+ div{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 7px;
+}
+ #a{
+    background-color: orange;
+ }
+#be{
+    text-align: center;
+    color:wheat;
+}
+#b{
+    background-color: white;
+}
+#c{
+    background-color: green;
+}
+#chiiku{
+    width: 19px;
+    height: 19px;
+     margin-left: 50px;
+}
